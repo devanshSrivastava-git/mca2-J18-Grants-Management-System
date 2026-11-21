@@ -1,0 +1,13 @@
+id,code,name,category,totalBudget,allocatedBudget,disbursedBudget,minAward,maxAward,opensAt,closesAt,status,createdBy
+1,"GMS-2026-CIP-001","Community Impact 2026","Healthcare & Sanitation",50000000,28500000,14200000,1000000,5000000,"2026-04-01","2026-06-30","PUBLISHED",2
+2,"GMS-2025-AGR-002","National AgriTech Innovation Fund","AgriTech & Rural",80000000,52000000,34000000,2000000,8000000,"2025-01-15","2025-05-31","PUBLISHED",2
+3,"GMS-2025-CLN-003","Clean Energy & Decarbonization Accelerator","Clean Energy & Climate",100000000,65000000,42000000,3000000,10000000,"2025-02-01","2025-07-31","PUBLISHED",3
+4,"GMS-2026-EDU-004","STEM Rural School Laboratory Scheme","STEM Education",40000000,18000000,9000000,1000000,3500000,"2026-03-01","2026-08-31","PUBLISHED",2
+5,"GMS-2024-WAT-005","Jal Samrakshan Watershed Mission 2024","Water Conservation",60000000,60000000,58000000,2000000,6000000,"2024-03-01","2024-09-30","CLOSED",2
+6,"GMS-2026-BIO-006","Indigenous BioTech & Vaccine Research","Healthcare & Sanitation",120000000,45000000,20000000,5000000,20000000,"2026-01-10","2026-06-15","PUBLISHED",3
+7,"GMS-2026-GOV-007","Digital Governance & Citizen Service Innovation","Digital Governance",45000000,15000000,5000000,1500000,5000000,"2026-02-15","2026-07-15","PUBLISHED",2
+8,"GMS-2026-WAS-008","Urban Solid Waste & Circular Economy Grant","Environment",50000000,0,0,2000000,7500000,"2026-05-01","2026-10-31","DRAFT",3
+9,"GMS-2026-WOM-009","Women Enterprise & Micro-Livelihood Scheme","Livelihood",70000000,35000000,21000000,1000000,4000000,"2026-01-01","2026-06-30","PUBLISHED",2
+10,"GMS-2024-TRI-010","Tribal Area Forest Produce Value Addition","AgriTech & Rural",35000000,35000000,35000000,1000000,3500000,"2024-04-01","2024-11-30","CLOSED",2
+11,"GMS-2026-MAX-011","National Inter-Disciplinary Mega-Consortium for Advanced Deep-Tech Infrastructure and High-Performance Resilience Systems across Urban and Rural Ecosystems Scheme of the Government of India Phase IV","Deep Tech & Infrastructure",250000000,0,0,10000000,50000000,"2026-06-01","2026-12-31","DRAFT",1
+12,"GMS-2023-ARC-012","Heritage Crafts & Artisans Support Archive","Livelihood",20000000,20000000,20000000,500000,2000000,"2023-01-01","2023-08-31","ARCHIVED",2

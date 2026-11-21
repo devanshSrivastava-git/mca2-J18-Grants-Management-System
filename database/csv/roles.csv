@@ -1,0 +1,6 @@
+id,code,name,desc
+1,"ROLE_ADMIN","System Administrator","Full administrative access and user management"
+2,"ROLE_PROGRAM_MANAGER","Grant Program Manager","Designs grant schemes, sets criteria, oversees review and approvals"
+3,"ROLE_REVIEWER","Technical & Subject Reviewer","Evaluates project proposals and submits scored criteria"
+4,"ROLE_APPLICANT","Grant Applicant","Submits proposals, checks eligibility, and reports milestones"
+5,"ROLE_FINANCE_OFFICER","Public Finance Officer","Validates bank details, authorizes tranches, and issues UTR records"

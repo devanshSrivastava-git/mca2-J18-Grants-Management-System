@@ -1,0 +1,61 @@
+id,appNumber,progId,userId,orgId,title,reqAmt,appvAmt,duration,elig,status,subDate,appvDate
+1,"GMS-2026-APP-1001",2,10,2,"Solar-Powered IoT Drip Irrigation and Soil Moisture Analytics - Phase 1",1000000,2350000,15,"ELIGIBLE","DISBURSED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+2,"GMS-2026-APP-1002",3,11,3,"Decentralized Biomass Gasifier Microgrid for Off-grid Villages - Phase 1",8000000,8000000,18,"ELIGIBLE","DISBURSED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+3,"GMS-2026-APP-1003",4,12,4,"STEM Tinkering Labs and Robotics Curriculum for 50 Rural Schools - Phase 1",2050000,2050000,21,"ELIGIBLE","DISBURSED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+4,"GMS-2026-APP-1004",5,13,5,"Community Rainwater Recharge Wells in Drought Prone Blocks - Phase 1",3400000,3400000,24,"ELIGIBLE","DISBURSED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+5,"GMS-2026-APP-1005",6,14,6,"Point-of-Care Microfluidic Diagnostic Kit for Dengue & Malaria - Phase 1",6750000,6750000,27,"ELIGIBLE","DISBURSED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+6,"GMS-2026-APP-1006",1,14,7,"Citizen Voice: Multilingual Speech-to-Text Grievance App - Phase 1",3100000,3100000,30,"ELIGIBLE","DISBURSED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+7,"GMS-2026-APP-1007",2,9,8,"Solar Cold Storage Micro-Hubs for Small Vegetable Growers - Phase 1",4450000,4450000,33,"ELIGIBLE","DISBURSED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+8,"GMS-2026-APP-1008",3,10,9,"Women Artisan Loom Digitization and E-Commerce Linkage - Phase 1",5800000,5800000,12,"ELIGIBLE","DISBURSED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+9,"GMS-2026-APP-1009",4,11,10,"Greywater Recycling and Bio-Remediation Wetland Pilot - Phase 1",1550000,1550000,15,"ELIGIBLE","DISBURSED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+10,"GMS-2026-APP-1010",5,12,11,"Affordable Portable Ultrasound Machine for Sub-District Hospitals - Phase 2",5500000,5500000,18,"ELIGIBLE","DISBURSED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+11,"GMS-2026-APP-1011",6,13,12,"AI-Driven Pest Forecasting System for Cotton Farmers - Phase 2",8850000,8850000,21,"ELIGIBLE","DISBURSED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+12,"GMS-2026-APP-1012",1,14,13,"Smart Electric Waste Collection Vehicles for Tier-3 Municipalities - Phase 2",1100000,1100000,24,"ELIGIBLE","DISBURSED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+13,"GMS-2026-APP-1013",2,15,14,"Interactive Augmented Reality Science Modules for High Schools - Phase 2",6550000,6550000,27,"ELIGIBLE","DISBURSED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+14,"GMS-2026-APP-1014",3,9,15,"Springshed Management and Check-Dam Rejuvenation - Phase 2",7900000,7900000,30,"ELIGIBLE","DISBURSED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+15,"GMS-2026-APP-1015",4,9,1,"Low-Cost Tuberculosis Breathalyzer Screening Sensor - Phase 2",1050000,1050000,33,"ELIGIBLE","DISBURSED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+16,"GMS-2026-APP-1016",5,10,2,"Panchayat Digital Land Record Verification Kiosks - Phase 2",3500000,3500000,12,"ELIGIBLE","DISBURSED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+17,"GMS-2026-APP-1017",6,11,3,"Farm-to-School Nutri-Cereal Processing Infrastructure - Phase 2",10950000,10950000,15,"ELIGIBLE","DISBURSED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+18,"GMS-2026-APP-1018",1,12,4,"Zero-Waste Banana Fiber Textile Processing Cluster - Phase 2",3200000,3200000,18,"ELIGIBLE","DISBURSED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+19,"GMS-2026-APP-1019",2,13,5,"Off-Grid Solar Chillers for Fisherfolk Self-Help Groups - Phase 2",2550000,2550000,21,"ELIGIBLE","DISBURSED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+20,"GMS-2026-APP-1020",3,15,6,"Mobile Primary Healthcare Clinics for Tribal Talukas - Phase 3",10000000,10000000,24,"ELIGIBLE","DISBURSED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+21,"GMS-2026-APP-1021",4,14,7,"Solar-Powered IoT Drip Irrigation and Soil Moisture Analytics - Phase 3",3150000,3150000,27,"ELIGIBLE","DISBURSED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+22,"GMS-2026-APP-1022",5,10,8,"Decentralized Biomass Gasifier Microgrid for Off-grid Villages - Phase 3",5600000,5600000,30,"ELIGIBLE","DISBURSED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+23,"GMS-2026-APP-1023",6,11,9,"STEM Tinkering Labs and Robotics Curriculum for 50 Rural Schools - Phase 3",13050000,13050000,33,"ELIGIBLE","DISBURSED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+24,"GMS-2026-APP-1024",1,12,10,"Community Rainwater Recharge Wells in Drought Prone Blocks - Phase 3",1200000,1200000,12,"ELIGIBLE","DISBURSED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+25,"GMS-2026-APP-1025",2,13,11,"Point-of-Care Microfluidic Diagnostic Kit for Dengue & Malaria - Phase 3",4650000,4650000,15,"ELIGIBLE","DISBURSED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+26,"GMS-2026-APP-1026",3,14,12,"Citizen Voice: Multilingual Speech-to-Text Grievance App - Phase 3",5000000,5000000,18,"ELIGIBLE","APPROVED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+27,"GMS-2026-APP-1027",4,15,13,"Solar Cold Storage Micro-Hubs for Small Vegetable Growers - Phase 3",2650000,2650000,21,"ELIGIBLE","APPROVED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+28,"GMS-2026-APP-1028",5,15,14,"Women Artisan Loom Digitization and E-Commerce Linkage - Phase 3",3600000,3600000,24,"ELIGIBLE","APPROVED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+29,"GMS-2026-APP-1029",6,10,15,"Greywater Recycling and Bio-Remediation Wetland Pilot - Phase 3",15150000,15150000,27,"ELIGIBLE","APPROVED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+30,"GMS-2026-APP-1030",1,9,1,"Affordable Portable Ultrasound Machine for Sub-District Hospitals - Phase 4",3300000,3300000,30,"ELIGIBLE","APPROVED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+31,"GMS-2026-APP-1031",2,10,2,"AI-Driven Pest Forecasting System for Cotton Farmers - Phase 4",6750000,6750000,33,"ELIGIBLE","APPROVED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+32,"GMS-2026-APP-1032",3,11,3,"Smart Electric Waste Collection Vehicles for Tier-3 Municipalities - Phase 4",7100000,7100000,12,"ELIGIBLE","APPROVED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+33,"GMS-2026-APP-1033",4,12,4,"Interactive Augmented Reality Science Modules for High Schools - Phase 4",2150000,2150000,15,"ELIGIBLE","APPROVED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+34,"GMS-2026-APP-1034",5,13,5,"Springshed Management and Check-Dam Rejuvenation - Phase 4",5700000,5700000,18,"ELIGIBLE","APPROVED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+35,"GMS-2026-APP-1035",6,9,6,"Low-Cost Tuberculosis Breathalyzer Screening Sensor - Phase 4",17250000,17250000,21,"ELIGIBLE","APPROVED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+36,"GMS-2026-APP-1036",1,14,7,"Panchayat Digital Land Record Verification Kiosks - Phase 4",1300000,1300000,24,"ELIGIBLE","APPROVED","2025-02-15 10:30:00","2025-08-20 14:00:00"
+37,"GMS-2026-APP-1037",2,11,8,"Farm-to-School Nutri-Cereal Processing Infrastructure - Phase 4",2750000,2750000,27,"ELIGIBLE","APPROVED","2025-03-15 10:30:00","2025-08-20 14:00:00"
+38,"GMS-2026-APP-1038",3,12,9,"Zero-Waste Banana Fiber Textile Processing Cluster - Phase 4",9200000,9200000,30,"ELIGIBLE","APPROVED","2025-04-15 10:30:00","2025-08-20 14:00:00"
+39,"GMS-2026-APP-1039",4,13,10,"Off-Grid Solar Chillers for Fisherfolk Self-Help Groups - Phase 4",1650000,1650000,33,"ELIGIBLE","APPROVED","2025-05-15 10:30:00","2025-08-20 14:00:00"
+40,"GMS-2026-APP-1040",5,14,11,"Mobile Primary Healthcare Clinics for Tribal Talukas - Phase 5",3700000,3700000,12,"ELIGIBLE","APPROVED","2025-01-15 10:30:00","2025-08-20 14:00:00"
+41,"GMS-2026-APP-1041",6,15,12,"Solar-Powered IoT Drip Irrigation and Soil Moisture Analytics - Phase 5",19350000,,15,"ELIGIBLE","UNDER_REVIEW","2025-02-15 10:30:00",
+42,"GMS-2026-APP-1042",1,9,13,"Decentralized Biomass Gasifier Microgrid for Off-grid Villages - Phase 5",3400000,,18,"ELIGIBLE","UNDER_REVIEW","2025-03-15 10:30:00",
+43,"GMS-2026-APP-1043",2,15,14,"STEM Tinkering Labs and Robotics Curriculum for 50 Rural Schools - Phase 5",4850000,,21,"ELIGIBLE","UNDER_REVIEW","2025-04-15 10:30:00",
+44,"GMS-2026-APP-1044",3,11,15,"Community Rainwater Recharge Wells in Drought Prone Blocks - Phase 5",4200000,,24,"ELIGIBLE","UNDER_REVIEW","2025-05-15 10:30:00",
+45,"GMS-2026-APP-1045",4,9,1,"Point-of-Care Microfluidic Diagnostic Kit for Dengue & Malaria - Phase 5",1150000,,27,"ELIGIBLE","UNDER_REVIEW","2025-01-15 10:30:00",
+46,"GMS-2026-APP-1046",5,10,2,"Citizen Voice: Multilingual Speech-to-Text Grievance App - Phase 5",5800000,,30,"ELIGIBLE","UNDER_REVIEW","2025-02-15 10:30:00",
+47,"GMS-2026-APP-1047",6,11,3,"Solar Cold Storage Micro-Hubs for Small Vegetable Growers - Phase 5",6350000,,33,"ELIGIBLE","UNDER_REVIEW","2025-03-15 10:30:00",
+48,"GMS-2026-APP-1048",1,12,4,"Women Artisan Loom Digitization and E-Commerce Linkage - Phase 5",1400000,,12,"ELIGIBLE","UNDER_REVIEW","2025-04-15 10:30:00",
+49,"GMS-2026-APP-1049",2,13,5,"Greywater Recycling and Bio-Remediation Wetland Pilot - Phase 5",6950000,,15,"ELIGIBLE","UNDER_REVIEW","2025-05-15 10:30:00",
+50,"GMS-2026-APP-1050",3,10,6,"Affordable Portable Ultrasound Machine for Sub-District Hospitals - Phase 6",6300000,,18,"ELIGIBLE","UNDER_REVIEW","2025-01-15 10:30:00",
+51,"GMS-2026-APP-1051",4,14,7,"AI-Driven Pest Forecasting System for Cotton Farmers - Phase 6",3250000,,21,"ELIGIBLE","SUBMITTED","2025-02-15 10:30:00",
+52,"GMS-2026-APP-1052",5,12,8,"Smart Electric Waste Collection Vehicles for Tier-3 Municipalities - Phase 6",3800000,,24,"ELIGIBLE","SUBMITTED","2025-03-15 10:30:00",
+53,"GMS-2026-APP-1053",6,13,9,"Interactive Augmented Reality Science Modules for High Schools - Phase 6",8450000,,27,"ELIGIBLE","SUBMITTED","2025-04-15 10:30:00",
+54,"GMS-2026-APP-1054",1,14,10,"Springshed Management and Check-Dam Rejuvenation - Phase 6",3500000,,30,"ELIGIBLE","SUBMITTED","2025-05-15 10:30:00",
+55,"GMS-2026-APP-1055",2,15,11,"Low-Cost Tuberculosis Breathalyzer Screening Sensor - Phase 6",2950000,,33,"ELIGIBLE","SUBMITTED","2025-01-15 10:30:00",
+56,"GMS-2026-APP-1056",3,9,12,"Panchayat Digital Land Record Verification Kiosks - Phase 6",8400000,,12,"INELIGIBLE","REJECTED","2025-02-15 10:30:00",
+57,"GMS-2026-APP-1057",4,10,13,"Farm-to-School Nutri-Cereal Processing Infrastructure - Phase 6",2750000,,15,"ELIGIBLE","REJECTED","2025-03-15 10:30:00",
+58,"GMS-2026-APP-1058",5,15,14,"Zero-Waste Banana Fiber Textile Processing Cluster - Phase 6",5900000,,18,"INELIGIBLE","REJECTED","2025-04-15 10:30:00",
+59,"GMS-2026-APP-1059",6,12,15,"Off-Grid Solar Chillers for Fisherfolk Self-Help Groups - Phase 6",10550000,,21,"ELIGIBLE","REJECTED","2025-05-15 10:30:00",
+60,"GMS-2026-APP-1060",1,9,1,"Mobile Primary Healthcare Clinics for Tribal Talukas - Phase 7",1500000,,24,"INELIGIBLE","REJECTED","2025-01-15 10:30:00",
